@@ -1,1 +1,1 @@
-# N-Queens
+# Solving N-Queens problem using Hill-climbing
